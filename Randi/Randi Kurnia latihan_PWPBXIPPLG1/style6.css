@@ -1,0 +1,31 @@
+.Navbar {
+    width: 500px;
+    height: auto;
+    border: 15px solid hsl(120, 100%, 25%);
+    padding: 10px;
+     margin: 20px;
+    background-color: yellow;
+    text-transform: capitalize;
+    text-align: center;
+
+}
+
+.Navbar ul {
+    display: flex;
+
+}
+
+.Navbar li {
+    margin: 20px;
+}
+
+#konten {
+    margin: 20px;
+    width: 500px;
+    height: auto;
+    padding: 10px;
+    background-color: yellow;
+    text-transform: capitalize;
+    text-align: center;
+
+}
